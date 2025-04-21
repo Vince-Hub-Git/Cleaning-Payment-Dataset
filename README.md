@@ -18,7 +18,7 @@ It was concluded that there was an issue with payment months due to missing cred
 
 <p align="center">
 Visualization <br/>
-<img src="https://i.imgur.com/yKcuqX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/32RCO7e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
